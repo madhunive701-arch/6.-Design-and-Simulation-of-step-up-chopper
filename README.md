@@ -46,5 +46,11 @@ Current Ripple (∆I) = 2A
 <img width="407" height="457" alt="image" src="https://github.com/user-attachments/assets/c6083c5a-a698-4499-97d4-528c43ab9ef4" />
 
 ## Simulation
+
+<img width="1306" height="343" alt="image" src="https://github.com/user-attachments/assets/59d9b8f4-1cb5-4e6b-b720-689825cc7042" />
+
 ## Output
+<img width="1147" height="517" alt="image" src="https://github.com/user-attachments/assets/38f51981-950e-4c3f-90ab-ceef38f830db" />
+
 ## Result
+Thus this experiment will be verified succesfully
